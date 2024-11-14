@@ -19,3 +19,10 @@
   - **Function Plans and Code Listings**: Provided references for control logic design, allowing for comparison with standard approaches and reinforcing best practices.
 
 These tools and resources collectively supported the development and validation of a reliable, modular control system for transport automation, enhancing my ability to apply theoretical knowledge in a practical setting.
+
+### Images
+
+![image](https://github.com/user-attachments/assets/e7354315-a85f-450f-8e7c-060ccab1a8d3)
+
+![image](https://github.com/user-attachments/assets/344709a9-fd2d-4940-9d6e-32188b2d8116)
+
